@@ -1,1 +1,1 @@
-# Bu repository MapKit kullanırken bazı ugyulamaların not tutulması için açılmıştır
+# Bu repository MapKit kullanırken bazı fonksiyonların not tutulması için açılmıştır
